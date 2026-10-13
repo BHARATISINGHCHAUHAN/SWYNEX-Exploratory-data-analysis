@@ -11,11 +11,6 @@
 # 
 
 # The objective of this project was to perform Exploratory Data Analysis (EDA) on customer churn data using Microsoft Excel and identify meaningful patterns in customer churn behavior.
-
-# 
-
-# The project involved data cleaning, statistical analysis, data categorization, Pivot Tables, Pivot Charts, and business insight generation to understand churn rates across different customer attributes.
-
 # 
 
 # \## 🎯 Project Objectives
@@ -111,12 +106,6 @@
 # 
 
 # This repository contains the following project files:
-
-# 
-
-# \- \*\*Original Dataset:\*\* The raw customer churn dataset used for the project.
-
-# \- \*\*Cleaned Dataset:\*\* The cleaned and prepared dataset uploaded earlier for analysis.
 
 # \- \*\*Churn Modeling Analysis.xlsx:\*\* The Excel workbook containing EDA, statistical calculations, categorized data, Pivot Tables, Pivot Charts, and churn analysis.
 
